@@ -30,7 +30,7 @@ set -e
 
 export GITHUB_SOURCE="master"
 export SCRIPT_RELEASE="master"
-export GITHUB_BASE_URL="export GITHUB_BASE_URL="https://raw.githubusercontent.com/AppDatty/pterodactyl-installer"
+export GITHUB_BASE_URL="https://raw.githubusercontent.com/AppDatty/pterodactyl-installer
 
 LOG_PATH="/var/log/pterodactyl-installer.log"
 
